@@ -9,3 +9,6 @@ Simple extension to remove youtube content depending on blacklist.
 - Confirm selection
 - Extension should be loaded
 - Activate extension
+
+## Customization
+Edit file content.js and add custom blacklist rules to blacklist array.
